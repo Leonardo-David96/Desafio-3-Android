@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PreguntaDinamica</string>
+    <string name="question">Pregunta</string>
+    <string name="category">Categoria</string>
+    <string name="difficulty">Dificultad</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Este es el segundo fragmento</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>
